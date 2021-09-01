@@ -6,13 +6,13 @@ subprojects {
      * The Maven group of the project artifact
      */
     group = 'io.opencaesar.ontologies'
-    version = '0.9.0'
+    version = '1.0.0'
     
     /*
      * Dependency versions
      */
     ext { 
-        coreVersion = '2.+' 
+        coreVersion = '3.+' 
     }
 
     /*
@@ -39,10 +39,10 @@ subprojects {
         }
         dependencies {
             classpath 'io.opencaesar.owl:owl-reason-gradle:+'
-            classpath 'io.opencaesar.oml:oml-bikeshed-gradle:0.9.+'
-            classpath 'io.opencaesar.oml:oml-merge-gradle:0.9.+'
-            classpath 'io.opencaesar.adapters:oml2owl-gradle:0.9.+'
-            classpath 'io.opencaesar.adapters:ecore2oml-gradle:0.9.+'
+            classpath 'io.opencaesar.oml:oml-bikeshed-gradle:1.0.+'
+            classpath 'io.opencaesar.oml:oml-merge-gradle:1.0.+'
+            classpath 'io.opencaesar.adapters:oml2owl-gradle:1.0.+'
+            classpath 'io.opencaesar.adapters:ecore2oml-gradle:1.0.+'
             classpath 'de.undercouch:gradle-download-task:4.1.1'
         }
     }

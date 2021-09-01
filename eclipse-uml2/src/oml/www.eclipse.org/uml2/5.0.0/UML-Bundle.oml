@@ -1,5 +1,8 @@
-@dc:^description "The bundle of the UML language"
+@dc:description "The is the vocabulary bundle of UML."
+@dc:title "uml bundle"
 vocabulary bundle <http://www.eclipse.org/uml2/5.0.0/UML-Bundle> with # as uml-bundle {
+
+	includes <http://purl.org/dc/elements/1.1> with / as dc
 
 	includes <http://www.eclipse.org/uml2/5.0.0/UML>
 
