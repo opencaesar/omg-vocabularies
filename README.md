@@ -1,6 +1,6 @@
 # Eclipse Vocabularies
 
-[![Build Status](https://travis-ci.com/opencaesar/eclipse-vocabularies.svg?branch=master)](https://travis-ci.com/opencaesar/eclipse-vocabularies)
+[![Build Status](https://app.travis-ci.com/opencaesar/eclipse-vocabularies.svg?branch=master)](https://app.travis-ci.com/github/opencaesar/eclipse-vocabularies)
 [![Release](https://img.shields.io/github/v/tag/opencaesar/eclipse-vocabularies?label=release)](https://github.com/opencaesar/eclipse-vocabularies/releases/latest)
 [![Documentation](https://img.shields.io/badge/Documentation-HTML-orange)](https://opencaesar.github.io/eclipse-vocabularies/) 
 

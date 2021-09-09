@@ -1,9 +1,9 @@
 @dc:description "This is the vocabulary bundle of BPMN."
 @dc:title "bpmn bundle"
-vocabulary bundle <http://www.omg.org/spec/BPMN/20100524/BPMN-Bundle> with # as bpmn2-bundle {
+vocabulary bundle <http://www.omg.org/spec/BPMN/20100524/BPMN-Bundle#> as bpmn2-bundle {
 
-	includes <http://purl.org/dc/elements/1.1> with / as dc
+	includes <http://purl.org/dc/elements/1.1/> as dc
 
-	includes <http://www.omg.org/spec/BPMN/20100524/MODEL-XMI>
+	includes <http://www.omg.org/spec/BPMN/20100524/MODEL-XMI#>
 
 }
